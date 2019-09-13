@@ -1,2 +1,4 @@
-# LiuBianXing
-六边形消除小游戏
+## LiuBianXing
+
+六边形2048
+
