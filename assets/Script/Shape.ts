@@ -19,7 +19,7 @@ export default class Shape extends cc.Component {
 
     // 以下为各方块类型图片
     @property([cc.SpriteFrame])
-    typeList: cc.SpriteFrame[] = null;
+    typeList: cc.SpriteFrame[] = [];
 
     boardTiles: cc.Node[];
     fillTiles: cc.Node[];

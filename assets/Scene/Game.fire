@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.2801470588235286,
-      "y": 0.2801470588235286,
+      "x": 0.29558823529411765,
+      "y": 0.29558823529411765,
       "z": 1
     },
     "_quat": {
@@ -763,25 +763,45 @@
     "board": {
       "__id__": 10
     },
-    "type1": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "type2": {
-      "__uuid__": "eeece68b-f9da-4b33-a0e2-89fa714c3f21"
-    },
-    "type3": {
-      "__uuid__": "5aebe23e-3efe-43cd-af6b-77db573fb216"
-    },
-    "type4": {
-      "__uuid__": "5e6d0562-6e70-40f6-bb5d-c9bf78205dff"
-    },
-    "type5": {
-      "__uuid__": "2571b832-b549-4d40-9ce5-9603ccfd15b9"
-    },
-    "type6": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "_id": "a7xbttNdFGXaRAcPnqDwi+"
+    "typeList": [
+      {
+        "__uuid__": "102d70ce-fe80-45a0-b1f4-e2ab8adeaa49"
+      },
+      {
+        "__uuid__": "51864fab-47ae-45e2-b35f-33f9209c24fe"
+      },
+      {
+        "__uuid__": "d8119424-12da-4f3f-acb9-a87dfc72c631"
+      },
+      {
+        "__uuid__": "598df8a1-c098-4a4a-8996-c354623a0232"
+      },
+      {
+        "__uuid__": "cd8844d5-d6c3-4c37-ae50-0ee976871eb0"
+      },
+      {
+        "__uuid__": "ddd42de6-84fb-47ba-b7c4-679006111f53"
+      },
+      {
+        "__uuid__": "836e0b49-6876-4c03-be89-c8d5a21dfcd3"
+      },
+      {
+        "__uuid__": "995a068c-c29c-4d8e-97ae-2091b1652ce7"
+      },
+      {
+        "__uuid__": "378f3ac7-9619-406c-afb5-394ecb9ec840"
+      },
+      {
+        "__uuid__": "b0488495-a75a-46fb-8820-3d20c93724f2"
+      },
+      {
+        "__uuid__": "fac2d534-1bf6-4430-8acb-6d6009c5ad97"
+      },
+      {
+        "__uuid__": "9e7e7cf4-6a2f-4295-affb-9df16e069149"
+      }
+    ],
+    "_id": "8dYkTsb0RO2pT2ZN4UwbDc"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -869,25 +889,45 @@
     "board": {
       "__id__": 10
     },
-    "type1": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "type2": {
-      "__uuid__": "eeece68b-f9da-4b33-a0e2-89fa714c3f21"
-    },
-    "type3": {
-      "__uuid__": "5aebe23e-3efe-43cd-af6b-77db573fb216"
-    },
-    "type4": {
-      "__uuid__": "5e6d0562-6e70-40f6-bb5d-c9bf78205dff"
-    },
-    "type5": {
-      "__uuid__": "2571b832-b549-4d40-9ce5-9603ccfd15b9"
-    },
-    "type6": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "_id": "8f5Y7QqH9IPqKbf5SVdJaj"
+    "typeList": [
+      {
+        "__uuid__": "102d70ce-fe80-45a0-b1f4-e2ab8adeaa49"
+      },
+      {
+        "__uuid__": "51864fab-47ae-45e2-b35f-33f9209c24fe"
+      },
+      {
+        "__uuid__": "d8119424-12da-4f3f-acb9-a87dfc72c631"
+      },
+      {
+        "__uuid__": "598df8a1-c098-4a4a-8996-c354623a0232"
+      },
+      {
+        "__uuid__": "cd8844d5-d6c3-4c37-ae50-0ee976871eb0"
+      },
+      {
+        "__uuid__": "ddd42de6-84fb-47ba-b7c4-679006111f53"
+      },
+      {
+        "__uuid__": "836e0b49-6876-4c03-be89-c8d5a21dfcd3"
+      },
+      {
+        "__uuid__": "995a068c-c29c-4d8e-97ae-2091b1652ce7"
+      },
+      {
+        "__uuid__": "378f3ac7-9619-406c-afb5-394ecb9ec840"
+      },
+      {
+        "__uuid__": "b0488495-a75a-46fb-8820-3d20c93724f2"
+      },
+      {
+        "__uuid__": "fac2d534-1bf6-4430-8acb-6d6009c5ad97"
+      },
+      {
+        "__uuid__": "9e7e7cf4-6a2f-4295-affb-9df16e069149"
+      }
+    ],
+    "_id": "90AssQzMhCdog4gkqMNlMC"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -975,25 +1015,45 @@
     "board": {
       "__id__": 10
     },
-    "type1": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "type2": {
-      "__uuid__": "eeece68b-f9da-4b33-a0e2-89fa714c3f21"
-    },
-    "type3": {
-      "__uuid__": "5aebe23e-3efe-43cd-af6b-77db573fb216"
-    },
-    "type4": {
-      "__uuid__": "5e6d0562-6e70-40f6-bb5d-c9bf78205dff"
-    },
-    "type5": {
-      "__uuid__": "2571b832-b549-4d40-9ce5-9603ccfd15b9"
-    },
-    "type6": {
-      "__uuid__": "dfb3bfab-d3ac-4f14-879d-d5ace36ed9b2"
-    },
-    "_id": "74yVG4w/JLQ4B+CTeV4Iij"
+    "typeList": [
+      {
+        "__uuid__": "102d70ce-fe80-45a0-b1f4-e2ab8adeaa49"
+      },
+      {
+        "__uuid__": "51864fab-47ae-45e2-b35f-33f9209c24fe"
+      },
+      {
+        "__uuid__": "d8119424-12da-4f3f-acb9-a87dfc72c631"
+      },
+      {
+        "__uuid__": "598df8a1-c098-4a4a-8996-c354623a0232"
+      },
+      {
+        "__uuid__": "cd8844d5-d6c3-4c37-ae50-0ee976871eb0"
+      },
+      {
+        "__uuid__": "ddd42de6-84fb-47ba-b7c4-679006111f53"
+      },
+      {
+        "__uuid__": "836e0b49-6876-4c03-be89-c8d5a21dfcd3"
+      },
+      {
+        "__uuid__": "995a068c-c29c-4d8e-97ae-2091b1652ce7"
+      },
+      {
+        "__uuid__": "378f3ac7-9619-406c-afb5-394ecb9ec840"
+      },
+      {
+        "__uuid__": "b0488495-a75a-46fb-8820-3d20c93724f2"
+      },
+      {
+        "__uuid__": "fac2d534-1bf6-4430-8acb-6d6009c5ad97"
+      },
+      {
+        "__uuid__": "9e7e7cf4-6a2f-4295-affb-9df16e069149"
+      }
+    ],
+    "_id": "043kHDQpRLSLEm1WjUwfbO"
   },
   {
     "__type__": "cc.PrefabInfo",
