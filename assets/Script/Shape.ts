@@ -18,18 +18,8 @@ export default class Shape extends cc.Component {
     board: Board = null;// 获取棋盘节点访问
 
     // 以下为各方块类型图片
-    @property(cc.SpriteFrame)
-    type1: cc.SpriteFrame = null;
-    @property(cc.SpriteFrame)
-    type2: cc.SpriteFrame = null;
-    @property(cc.SpriteFrame)
-    type3: cc.SpriteFrame = null;
-    @property(cc.SpriteFrame)
-    type4: cc.SpriteFrame = null;
-    @property(cc.SpriteFrame)
-    type5: cc.SpriteFrame = null;
-    @property(cc.SpriteFrame)
-    type6: cc.SpriteFrame = null;
+    @property([cc.SpriteFrame])
+    typeList: cc.SpriteFrame[] = null;
 
     boardTiles: cc.Node[];
     fillTiles: cc.Node[];
@@ -48,7 +38,7 @@ export default class Shape extends cc.Component {
             return this.hex2pixel(hexArr, this.tileH);
         });
 
-        this.setSpriteFrame(hexPx, this[`type${hexData.type}`]);
+        this.setSpriteFrame(hexPx, this.typeList[getRandomInt(0, this.typeList.length)]);
         this.node.scale = this.tileScale;
         this.node.ox = this.node.x;
         this.node.oy = this.node.y;
